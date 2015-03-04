@@ -1,0 +1,7 @@
+c:\users\kishor.dudhe\documents\visual studio 2013\Projects\Test_MVC_Calculator\Test_MVC_Calculator\bin\Debug\Test_MVC_Calculator.dll
+c:\users\kishor.dudhe\documents\visual studio 2013\Projects\Test_MVC_Calculator\Test_MVC_Calculator\bin\Debug\Test_MVC_Calculator.pdb
+c:\users\kishor.dudhe\documents\visual studio 2013\Projects\Test_MVC_Calculator\Test_MVC_Calculator\bin\Debug\MVC_Calc.exe
+c:\users\kishor.dudhe\documents\visual studio 2013\Projects\Test_MVC_Calculator\Test_MVC_Calculator\bin\Debug\MVC_Calc.pdb
+c:\users\kishor.dudhe\documents\visual studio 2013\Projects\Test_MVC_Calculator\Test_MVC_Calculator\obj\Debug\Test_MVC_Calculator.csprojResolveAssemblyReference.cache
+c:\users\kishor.dudhe\documents\visual studio 2013\Projects\Test_MVC_Calculator\Test_MVC_Calculator\obj\Debug\Test_MVC_Calculator.dll
+c:\users\kishor.dudhe\documents\visual studio 2013\Projects\Test_MVC_Calculator\Test_MVC_Calculator\obj\Debug\Test_MVC_Calculator.pdb
